@@ -24,4 +24,4 @@ const zenoo = {
 
 ⭐️ From [@Zenoo](https://github.com/Zenoo)
 
-![Zenoo's github stats](https://github-readme-stats.vercel.app/api?username=zenoo&show_icons=true)
+![Zenoo's github stats](https://github-readme-stats.vercel.app/api?username=zenoo&show_icons=true&count_private=true&theme=dark)
