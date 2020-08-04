@@ -28,5 +28,5 @@ const zenoo = {
   <summary>Some stats</summary>
   
   ![Zenoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenoo&hide=php&layout=compact&theme=dark)  
-  ![Zenoo's github stats](https://github-readme-stats.vercel.app/api?username=zenoo&show_icons=true&count_private=true&theme=dark)
+  ![Zenoo's github stats](https://github-readme-stats.vercel.app/api?username=zenoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 </details>
