@@ -20,6 +20,8 @@ const zenoo = {
 
 <em>Don't be shy, say <b>hi!</b> :)</em>
 
+[![Spotify](https://novatorem-lovat-eta.vercel.app/api/spotify)](https://open.spotify.com/user/zenoo0)
+
 ---
 
 ⭐️ From [@Zenoo](https://github.com/Zenoo)
