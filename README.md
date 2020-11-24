@@ -25,7 +25,7 @@ const zenoo = {
   <tr>
   <td>
       
-&nbsp; <br> [![Spotify](https://novatorem-lovat-eta.vercel.app/api/spotify)](https://open.spotify.com/user/zenoo0)
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zenoo0&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zenoo0&redirect=true)
 
   </td>
   </table>
