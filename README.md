@@ -20,7 +20,7 @@ const zenoo = {
 
 <em>Don't be shy, say <b>hi!</b> :)</em>
 
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Zenoo&badges=3">
 <table width="100%"> 
   <tr>
   <td>
