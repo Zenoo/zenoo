@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
+          repositories_affiliations: owner, collaborator, organization_member
           base: header
           config_order: base.header, achievements, music, habits, followup
           plugin_habits: yes
