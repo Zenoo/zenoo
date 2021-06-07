@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
+          base: header
           config_order: "base.header achievements music habits"
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
