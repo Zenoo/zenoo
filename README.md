@@ -2,7 +2,7 @@
 
 <p><em>Full-Stack Developper at <strong>Sostag</strong></em></p>
 
-
+![Metrics](https://github.com/Zenoo/zenoo/blob/master/github-metrics.svg)
 
 ### A little more about me...  
 
