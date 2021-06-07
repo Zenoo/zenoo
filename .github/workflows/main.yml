@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
+          config_order: "base.header achievements music habits"
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
@@ -27,14 +28,9 @@ jobs:
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
-          plugin_pagespeed_detailed: no                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: .user.website                    # Website to audit (defaults to your GitHub linked website)
           plugin_music: yes
-          plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/4DL9EGxzyd3S14XWnX8fQp # Use extracted playlist link
-                                            #   (plugin_music_provider and plugin_music_mode will be set automatically)
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
