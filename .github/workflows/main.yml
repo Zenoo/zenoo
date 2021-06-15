@@ -17,6 +17,7 @@ jobs:
           template: classic
           repositories_affiliations: owner, collaborator, organization_member
           base: header
+          debug: yes
           config_display: columns
           config_order: base.header, achievements, music, habits, followup
           plugin_habits: yes
