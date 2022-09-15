@@ -1432,7 +1432,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1895,7 +1895,7 @@
                                 <div class="infos">
                                     <div class="name">Earn It</div>
                                     <div class="artist">Vanic</div>
-                                    <div class="played-at">Played at 16:57:30 on 14 Sept 2022</div>
+                                    <div class="played-at">Played at 10:06:23 on 15 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1903,7 +1903,7 @@
                                 <div class="infos">
                                     <div class="name">Peregrine</div>
                                     <div class="artist">Mako</div>
-                                    <div class="played-at">Played at 16:56:17 on 14 Sept 2022</div>
+                                    <div class="played-at">Played at 10:02:55 on 15 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1911,7 +1911,7 @@
                                 <div class="infos">
                                     <div class="name">Tuyuka - Jaro Remix</div>
                                     <div class="artist">Malvae</div>
-                                    <div class="played-at">Played at 16:52:26 on 14 Sept 2022</div>
+                                    <div class="played-at">Played at 09:59:05 on 15 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1946,11 +1946,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="31.897946484131925" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="31.897946484131925" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="31.897946484131925" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="31.897946484131925" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="31.897946484131925" y="0" width="188.10205351586808" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="32.24844720496895" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="32.24844720496895" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="32.24844720496895" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="32.24844720496895" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="32.24844720496895" y="0" width="187.75155279503105" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -1961,7 +1961,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">233 <small>open</small></span>
+                                <span class="no-wrap">236 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2042,13 +2042,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="40.19830028328612" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="40.19830028328612" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="40.19830028328612" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="40.19830028328612" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="40.19830028328612" y="0" width="179.4900849858357" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="219.68838526912182" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.68838526912182" y="0" width="0.311614730878187" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="40.95909732016925" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="40.95909732016925" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="40.95909732016925" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="40.95909732016925" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="40.95909732016925" y="0" width="178.73060648801126" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="219.68970380818052" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="219.68970380818052" y="0" width="0.31029619181946405" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -2057,7 +2057,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">129 <small>open</small></span>
+                                <span class="no-wrap">132 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
